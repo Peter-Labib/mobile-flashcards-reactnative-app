@@ -1,0 +1,12 @@
+{
+  "name": "mobile-flashcards-reactnative-app",
+  "displayName": "mobile-flashcards-reactnative-app",
+  "expo": {
+    "name": "mobile-flashcards-reactnative-app",
+    "slug": "mobile-flashcards-reactnative-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
